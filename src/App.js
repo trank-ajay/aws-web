@@ -1,3 +1,5 @@
+// git remote add origin https://github.com/trank-ajay/aws-web.git
+
 import logo from './logo.svg';
 import './App.css';
 
